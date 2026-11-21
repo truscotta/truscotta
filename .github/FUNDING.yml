@@ -1,0 +1,9 @@
+# GitHub Sponsors funding configuration for truscotta repositories
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+github: [truscotta]
+
+# Uncomment additional platforms only if you actively maintain them:
+# open_collective: truscotta
+# ko_fi: truscotta
+# custom: ["https://truscotta.dev/sponsor"]
